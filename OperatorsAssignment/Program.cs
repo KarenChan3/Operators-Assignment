@@ -8,16 +8,16 @@ class Program
         Employee employee1 = new Employee
         {
             Id = 1,
-            FirstName = "Patrick",
-            LastName = "Chan"
+            FirstName = "Ariana",
+            LastName = "Grande"
         };
 
         // create the second Employee object and set its properties.
         Employee employee2 = new Employee
         {
             Id = 1,
-            FirstName = "Patricia",
-            LastName = "Chan"
+            FirstName = "Taylor",
+            LastName = "Swift"
         };
 
         // compare the two Employee objects using the overloaded == operator.
